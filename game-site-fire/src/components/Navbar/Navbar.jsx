@@ -3,7 +3,6 @@ import { NavLink, useNavigate } from 'react-router-dom';
 import { signOut } from 'firebase/auth';
 import { auth } from '../../firebase';
 import { toast } from 'react-toastify';
-import logo from '../../assets/react.svg';
 
 const Navbar = ({ user, setUser }) => {
   const navigate = useNavigate();

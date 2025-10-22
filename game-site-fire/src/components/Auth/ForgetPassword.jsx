@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { useLocation, useNavigate } from 'react-router-dom';
+import { useLocation } from 'react-router-dom';
 import { sendPasswordResetEmail } from 'firebase/auth';
 import { auth } from '../../firebase';
 import { toast } from 'react-toastify';
@@ -8,7 +8,6 @@ import { motion } from 'framer-motion';
 const ForgetPassword = () => {
   const [email, setEmail] = useState('');
   const location = useLocation();
-  const navigate = useNavigate();
 
   useEffect(() => {
     document.title = 'Forget Password - Gamehub';
@@ -21,7 +20,7 @@ const ForgetPassword = () => {
     try {
       await sendPasswordResetEmail(auth, email);
       toast.success('Password reset email sent!');
-      navigate('https://mail.google.com');
+      window.open('https://mail.google.com', '_blank');
     } catch (error) {
       toast.error('Failed to send reset email: ' + error.message);
     }
