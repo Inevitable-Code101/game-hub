@@ -27,27 +27,27 @@ const Home = () => {
       transition={{ duration: 0.5 }}
       className="bg-gray-900 text-white"
     >
-      {/* Banner Slider */}
+      {/* Banner */}
       <Swiper pagination={true} modules={[Pagination]} className="mySwiper">
         <SwiperSlide>
           <img
-            src="https://via.placeholder.com/1200x400?text=Game+Banner+1"
+            src="https://placehold.co/1900x380?text=Banner+1"
             alt="Game Banner 1"
-            className="w-full h-96 object-cover"
+            className="m-2 w-full h-96 object-cover"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
-            src="https://via.placeholder.com/1200x400?text=Game+Banner+2"
+            src="https://placehold.co/1900x380?text=Banner+2"
             alt="Game Banner 2"
-            className="w-full h-96 object-cover"
+            className="m-2 w-full h-96 object-cover"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
-            src="https://via.placeholder.com/1200x400?text=Game+Banner+3"
+            src="https://placehold.co/1900x380?text=Banner+3"
             alt="Game Banner 3"
-            className="w-full h-96 object-cover"
+            className="m-2 w-full h-96 object-cover"
           />
         </SwiperSlide>
       </Swiper>

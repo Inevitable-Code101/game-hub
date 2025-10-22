@@ -22,7 +22,7 @@ const GameDetails = ({ user }) => {
       })
       .catch((error) => {
         console.error('Error fetching game:', error);
-        navigate('/'); // Redirect to home on error
+        navigate('/');
       });
   }, [user, id, navigate]);
 

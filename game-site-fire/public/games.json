@@ -2,7 +2,7 @@
   {
     "id": "1",
     "title": "Player Unknowns Battle Ground: PUBG",
-    "coverPhoto": "https://example.com/images/pubg.png",
+    "coverPhoto": "https://via.assets.so/game.jpg?w=1280&h=720",
     "category": "FPS",
     "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
     "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
@@ -12,7 +12,7 @@
   {
     "id": "2",
     "title": "Fortnite",
-    "coverPhoto": "https://example.com/images/fortnite.png",
+    "coverPhoto": "https://via.assets.so/game.jpg?w=1280&h=720",
     "category": "Battle Royale",
     "downloadLink": "https://www.epicgames.com/fortnite",
     "description": "Build, battle, and survive in this free-to-play battle royale.",
